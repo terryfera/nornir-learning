@@ -1,0 +1,10 @@
+---
+# Host file
+dc-sw01:
+    hostname: '10.10.10.1'
+    port: 22
+    username: 'netbrain'
+    password: 'netbrain1'
+    platform: 'cisco_ios'
+    groups:
+        - 'cisco_ios'
